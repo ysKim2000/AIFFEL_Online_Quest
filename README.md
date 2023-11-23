@@ -6,4 +6,7 @@ Exploration
   - Exploration 2_2: [Linear Regression] Kaggle bike-sharing-demand 예측
 - Exploration 4:
   - Exploration 4_1: [Ensemble, Hyper Parameter Tuning, Grid Search] [Kaggle House Price Prediction](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
+- EXPLORATION 6:
+  - Exploration 6_1: [Face Detection, Face Landmark Detection] Used Dlib library, image composition algorithm
+    
     
