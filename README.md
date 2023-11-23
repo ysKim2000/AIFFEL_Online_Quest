@@ -1,4 +1,4 @@
-# AIFFEL_Queust
+# AIFFEL_Quest
 
 Exploration
 - Exploration 2:
