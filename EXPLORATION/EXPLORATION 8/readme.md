@@ -18,7 +18,12 @@
         - ![image](https://github.com/kcj4800/AIFFEL_Online_Quest/assets/128466813/88db7e84-fde8-4b83-a4a9-cb825286f5ea)
         - ![image](https://github.com/kcj4800/AIFFEL_Online_Quest/assets/128466813/e38b3d60-ebbc-4742-b7c1-221cdd760719)
           
-      2. 학습 목표치인 85%를 넘기는데 성공하였습니다.
+      2.임베딩 분석 결과를 보여주었습니다.
+        - ![image](https://github.com/ysKim2000/AIFFEL_Online_Quest/assets/86720575/f51c562a-ee6e-4576-a8ce-99294a08ba53)
+        - ![image](https://github.com/ysKim2000/AIFFEL_Online_Quest/assets/86720575/e4f08b9c-f758-4357-a4e9-da7fd48d7949)
+
+
+      3. 학습 목표치인 85%를 넘기는데 성공하였습니다.
         - ![image](https://github.com/kcj4800/AIFFEL_Online_Quest/assets/128466813/2fa1d551-0d2b-4484-a5bc-1b9d4146a1ed)
 
 
