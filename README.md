@@ -10,4 +10,5 @@ EXPLORATION
   - Exploration 6_1: [Face Detection, Face Landmark Detection] 얼굴 마스크 합성 (Dlib library, image composition algorithm)
 - EXPLORATION 8:
   - Exploration_8: [NLP] 네이버 영화 리뷰 감성 분석 (LSTM, Conv1D, GlobalMaxPooling1D, 한국어 Word2Vec 모델)
-    
+- EXPLORATION 10:
+  - Exploration_10: [Segmentaion] 이미지 포커스 사진, pixellib.segmentation(semantic_segmentation)
