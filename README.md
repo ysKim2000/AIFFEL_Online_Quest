@@ -15,4 +15,4 @@ EXPLORATION
 - EXPLORATION 12:
   - Exploration_12: [Text Summarization] Data preprocessing, Extractive/Abstartive, Attentional seq2seq, Summa
 - EXPLORATION 14:
-  - Exploration_14: [Generation model] Augmentation, pix2pix, U-Net generator, discriminator
+  - Exploration_14: [Generation model] cGAN, Augmentation, pix2pix, U-Net generator, discriminator
