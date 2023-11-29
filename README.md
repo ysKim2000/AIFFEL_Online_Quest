@@ -11,4 +11,8 @@ EXPLORATION
 - EXPLORATION 8:
   - Exploration_8: [NLP] 네이버 영화 리뷰 감성 분석 (LSTM, Conv1D, GlobalMaxPooling1D, 한국어 Word2Vec 모델)
 - EXPLORATION 10:
-  - Exploration_10: [Segmentaion] 이미지 포커스 사진, pixellib.segmentation(semantic_segmentation)
+  - Exploration_10: [Segmentaion] out focusing, pixellib.segmentation(semantic_segmentation)
+- EXPLORATION 12:
+  - Exploration_12: [Text Summarization] Data preprocessing, Extractive/Abstartive, Attentional seq2seq, Summa
+- EXPLORATION 14:
+  - Exploration_14: [Generation model] Augmentation, pix2pix, U-Net generator, discriminator
